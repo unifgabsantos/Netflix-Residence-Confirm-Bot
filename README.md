@@ -39,9 +39,12 @@ Fluxo completo: Gmail → API → Filtro de email → Parser HTML → Extração
 Clone o repositório:
 
 git clone https://github.com/unifgabsantos/Netflix-Residence-Confirm-Bot.git
-cd netflix-residence-confirm-bot```
 
-Instale as dependências: pip install -r requirements.txt
+cd Netflix-Residence-Confirm-Bot
+
+Instale as dependências: 
+
+pip install -r requirements.txt
 
 ## 🔐 Configuração (Gmail API)
 
